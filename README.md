@@ -13,8 +13,8 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.solve(), we can find the solutions.
 ### Step 4: 
 End the program
-## Program:'''
-#programe to find the solution for the given linear equations.
+## Program:
+'''#programe to find the solution for the given linear equations.
 #Developed by:MUKESH S
 #RegisterNumber:2305002016
 import numpy as np
